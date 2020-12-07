@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 NLP_notebook.ipynb
 .gitignore
+ruwikiruscorpora_upos_skipgram_300_2_2018.vec.gz
+taiga_upos_skipgram_300_2_2018.vec.gz
